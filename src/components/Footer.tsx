@@ -7,7 +7,7 @@ const Footer = () => {
       id="contact"
     >
       <div className="text-center md:text-left px-5 py-5 md:px-15 md:py-10">
-        <h3 className="text-2xl font-semibold">Emmanuel Oyeleke</h3>
+        <h3 className="text-2xl font-semibold">James Oluwatosin</h3>
         <p className="text-lg">Front-end Developer</p>
       </div>
 
